@@ -30,7 +30,7 @@ if escolha1 == 'esquerda':
                     'Digite "esperar" para esperar por um barco. '
                     'Digite "nadar" para atravessar o lago nadando. \n').lower()
     if escolha2 == 'esperar':
-        escolha3 = input('Você chegou a ilha inleso '
+        escolha3 = input('Você chegou a ilha ileso '
                     'Ai você avista uma casa com 3 portas para entrar na casa você precisa escolher em qual porta você vai entrar.\n '
                     'Tem uma porta vermelha, amarela e azul.\n'
                     'Em qual porta você ira entrar? Vermelha, amarela ou azul? \n').lower()
